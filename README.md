@@ -9,6 +9,7 @@ Ce script Tampermonkey ajoute un bouton **Export to YouTube** dans l'interface *
 
 ## 🙄 "J'ai la flemme de lire de la doc"
 Ca tombe bien ! J'ai fait une vidéo tuto :
+
 [![\[TUTO\] Exportez vos vidéos Twitch vers Youtube facilement !](https://img.youtube.com/vi/la-OwaGcf2k/0.jpg)](https://www.youtube.com/watch?v=la-OwaGcf2k "[TUTO] Exportez vos vidéos Twitch vers Youtube facilement !")
 
 ## ⚠️ Disclaimer (important)
