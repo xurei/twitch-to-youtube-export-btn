@@ -90,7 +90,9 @@ Tampermonkey est une extension navigateur qui permet d'exécuter des scripts per
   ```    
 - Un message récapitulatif apparaîtra lorsque l'export est terminé
 - Il faut attendre quelques minutes avant que les vidéos apparaîssent dans votre Youtube Studio, c'est normal.
-    
+- ... mais comme vous êtes super content, vous en profitez pour vous abonner à ma page Patreon et/ou à me soutenir sur Ko-Fi 🫰
+  - ☕️ https://ko-fi.com/xurei
+  - 🅿️ https://patreon.com/xurei
 ----------
 
 ## ⚙️ Notes importantes
